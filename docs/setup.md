@@ -15,7 +15,7 @@ El objetivo de este portafolio es que el estudiante aprenda a utilizar `Github` 
     - Más engorroso pero más seguro: SSH
         * Sigue [estas instrucciones](https://help.github.com/en/articles/connecting-to-github-with-ssh).
 4. Ir al repositorio [MAT281-Portfolio](https://github.com/fralfaro/MAT281-Portfolio) y presionar el botón *__Use this template__* <img src="../images/template.png" width=80>.
-5. Nombar el nuevo repositorio como __mat281_portfolio__ y dejarlo en modo público.
+5. Nombrar el nuevo repositorio como __mat281_portfolio__ y dejarlo en modo público.
 7. Se recomienda crear un directorio en el computador personal para repositorios de Git. Por ejemplo en `~/Documents/git/`.
 6. Clonar el repositorio recién creado. Dependiendo de tu configuración de Git, reemplazar `{username}` por el nombre de usuario personal de GitHub uno de los siguientes comandos en la terminal (usuarios de Windows probablemente tengan que utilizar _Git Shell_.)
     - HTTPS: `git clone https://github.com/{GITHUB_USER}/mat281_portfolio.git`
