@@ -1,0 +1,10 @@
+Word: mom, Result: is a palindrome
+Word: quiet, Result: is not a palindrome
+Word: noon, Result: is a palindrome
+Word: deed, Result: is a palindrome
+Word: civic, Result: is a palindrome
+Word: math, Result: is not a palindrome
+Word: level, Result: is a palindrome
+Word: refer, Result: is a palindrome
+Word: rare, Result: is not a palindrome
+Word: physics, Result: is not a palindrome
